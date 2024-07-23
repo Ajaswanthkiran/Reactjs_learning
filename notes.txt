@@ -1,0 +1,36 @@
+
+
+What is React.js?
+- React is JS library for building user interfaces. 
+- React is a Extremely popular Declarative, component based state-driven js library for building UI. 
+
+- based on component -> component are the building blocks of the UI (buttons, forms, ..etc), we build a complex UI by building and
+                        combining multiple components.
+-  we describe how components look and how they work using a declarative syntax called JSX
+- Declarative  --> means telling react how a component should look like based on the current state/data.
+- JSX:- syntax that combine HTML,CSS and JS as well as referencing other components. 
+- state-drive: react reacts to state changes by re-rendering the UI. 
+- react is a just a library not a framework  
+
+        client<---------------- react <---- JavaScript
+                Display& Manage        (React bulid up on JavaScript)  
+                website content        (As React developer. you'll write react-specific JavaScript code)
+                and UI
+- React uses Js in the bowers to update the page and the UI we see without load the page.
+
+- When writing in React we will define the target UI states - not the steps 
+- React = Declarative UI programming.
+          (Define the goal not the steps)
+
+- Js is a imperative (define the step not the goal)
+
+- JSX (JavaScript XML)
+
+- React code must be transformed 
+
+        React code        --------------------------------------> code that runs on browser 
+   ( JS code typically uses JSX        code is transformed & optimized      (JS without JSX)
+        ("HTML in JS"))                 
+
+
+- extension -- eslint for finding js errors, prettier
